@@ -1,0 +1,54 @@
+{
+  "basics":{
+  "name":"ramya",
+  "photo":"srs.png",
+  "email":"ramyasree8074@gmail.com",
+  "mobileno":9876543210,
+  "address":"svit college"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+},
+"education":[
+  {
+    "degree":"B-Tech",
+    "institute":"SVIT,Anantapur",
+    "data":["2016-20","75%"]
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"sree chaitanya",
+    "data":["2014-16","92%"]
+  },
+  {
+    "degree":"s.s.c",
+    "institute":"Bhashyam school",
+    "data":["2014","80%"]
+  }
+],
+"skills":[
+
+  {
+    "sname":"Languages",
+    "sdata":["C","C++","Java"]
+
+
+
+  },
+  {
+    "sname":"DataBases",
+    "sdata":["Oracle","Mysql"]
+
+
+
+  },
+
+
+    {
+      "sname":"Operating Systems",
+      "sdata":["Windows","Linux","Unix"]
+
+    }
+]
+}
